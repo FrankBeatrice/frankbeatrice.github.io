@@ -5,8 +5,7 @@ layout: default
 ![Banner](assets/biscuit.png)
 
 
-**Frank Beatrice III For Uniswap 🦄
-COMMUNITY LEAD** 
+### Frank Beatrice III For Uniswap 🦄 COMMUNITY LEAD
 
 ## Presentations 
 
