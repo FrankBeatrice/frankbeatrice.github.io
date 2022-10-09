@@ -12,7 +12,7 @@ layout: default
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21
 
-## 
+## Additional links:
 https://bit.ly/profile-and-interview-poap-company-feature
 
 
