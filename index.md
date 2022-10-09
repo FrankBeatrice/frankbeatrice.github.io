@@ -6,7 +6,7 @@ layout: default
 
 
 **Frank Beatrice III For Uniswap 🦄
-COMMUNITY LEAD ** 
+COMMUNITY LEAD** 
 
 ## Presentations 
 
