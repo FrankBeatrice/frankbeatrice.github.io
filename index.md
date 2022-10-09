@@ -10,6 +10,7 @@ layout: default
 ## Presentations 
 
 ## Writing Samples
+https://docs.google.com/document/d/10q2j0MQpAJwcOzZoVyagviBigHz5uGzsJMscqQwjOo8/edit?usp=sharing
 
 
 
