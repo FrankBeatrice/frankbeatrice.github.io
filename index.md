@@ -16,7 +16,7 @@ https://bit.ly/poap-community-call-5-video
 
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21
-### Email & Social Templates 
+### Templates:
 
 ## Additional links:
 https://bit.ly/profile-and-interview-poap-company-feature
