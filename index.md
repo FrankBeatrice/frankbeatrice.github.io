@@ -6,7 +6,7 @@
 # Frank Beatrice III For Uniswap 🦄 COMMUNITY LEAD
 
 ## Presentations
-https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII
+https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII <br>
 https://bit.ly/facebook-early-learners-initiative
 
 ## Community-Calls
