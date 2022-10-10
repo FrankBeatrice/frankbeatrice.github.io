@@ -16,8 +16,9 @@ https://bit.ly/poap-community-call-5-video
 
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21 <br>
-https://bit.ly/mail-merge-template
+
 ### Templates:
+https://bit.ly/mail-merge-template
 
 ## Additional links:
 https://bit.ly/profile-and-interview-poap-company-feature
