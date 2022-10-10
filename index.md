@@ -14,6 +14,8 @@ https://bit.ly/med-hacks-mlh
 https://bit.ly/poap-community-call-35-video <br>
 https://bit.ly/poap-community-call-5-video-
 ### Public Demos
+https://bit.ly/Cyberconnect-Demo-Cyber-Graph-POAP <br>
+https://bit.ly/Rainbow-me-Integration-walkthrough-POAP
 
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21 <br>
