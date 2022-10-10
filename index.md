@@ -1,6 +1,4 @@
----
-layout: default
----
+
 
 ![Banner](assets/biscuit.png)
 
