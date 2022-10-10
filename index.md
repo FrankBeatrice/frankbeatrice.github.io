@@ -7,7 +7,8 @@
 
 ## Presentations
 https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII <br>
-https://bit.ly/facebook-early-learners-initiative
+https://bit.ly/facebook-early-learners-initiative <br>
+https://bit.ly/med-hacks-2017
 
 ## Community-Calls
 https://bit.ly/poap-community-call-35-video <br>
