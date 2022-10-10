@@ -15,7 +15,7 @@ https://bit.ly/poap-community-call-5-video-
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21 <br>
 
-### Templates:
+### Public Response Templates:
 https://bit.ly/mail-merge-template <br>
 https://bit.ly/OFAC-template
 
