@@ -1,6 +1,6 @@
 
 
-![Banner](assets/biscuit.png)
+![Banner](assets/Uniswap_Image_02.png)
 
 
 # Frank Beatrice III For Uniswap 🦄 COMMUNITY LEAD
