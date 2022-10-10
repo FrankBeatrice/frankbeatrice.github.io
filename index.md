@@ -10,7 +10,7 @@ https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII
 
 ## Community-Calls
 https://bit.ly/poap-community-call-35-video <br>
-https://bit.ly/poap-community-call-5-video
+https://bit.ly/poap-community-call-5-video-
 
 ## Writing Samples
 https://bit.ly/recap-of-poap-community-call-21 <br>
