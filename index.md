@@ -22,7 +22,7 @@ https://bit.ly/mail-merge-template <br>
 https://bit.ly/OFAC-template
 
 ## Additional links:
-https://bit.ly/statsdiscoursepoapxyzstats <br>
+https://bit.ly/statsdiscoursepoapxyzstats | https://discourse.poap.xyz/u/frankie/summary <br>
 https://bit.ly/profile-and-interview-poap-company-feature
 
 [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
