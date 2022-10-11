@@ -6,9 +6,10 @@
 # Frank Beatrice III For Uniswap 🦄 COMMUNITY LEAD
 
 ## Presentations
-https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII <br>
-https://bit.ly/facebook-early-learners-initiative <br>
-https://bit.ly/med-hacks-mlh
+[MIT license] (https://bit.ly/Uniswap-Community-Advocate-Deck) <br>
+[MIT license] (https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII <br>
+[MIT license] (https://bit.ly/facebook-early-learners-initiative ) <br>
+[MIT license] (https://bit.ly/med-hacks-mlh)
 
 ## Community-Calls
 https://bit.ly/poap-community-call-35-video <br>
