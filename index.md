@@ -13,8 +13,8 @@
  
 ## Community-Calls
 [POAP Community Call #35 Video](https://bit.ly/poap-community-call-35-video) <br>
-[POAP Community Call #30 Video](https://bit.ly/poap-community-call-30-video)
-[POAP Community Call #5 Video](https://bit.ly/poap-community-call-5-video-) <br>
+[POAP Community Call #30 Video](https://bit.ly/poap-community-call-30-video) <br>
+[POAP Community Call #5 Video](https://bit.ly/poap-community-call-5-video-)  <br>
 
 ### Public Demos
 [Integrations - Cyberconnect Video Walkthorugh](https://bit.ly/Cyberconnect-Demo-Cyber-Graph-Integration-walkthrough-POAP) <br>
