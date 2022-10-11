@@ -15,8 +15,8 @@
 [POAP Community Call #35 Video](https://bit.ly/poap-community-call-35-video) <br>
 [POAP Community Call #5 Video](https://bit.ly/poap-community-call-5-video-)
 ### Public Demos
-[](https://bit.ly/Cyberconnect-Demo-Cyber-Graph-Integration-walkthrough-POAP) <br>
-[](https://bit.ly/Rainbow-me-Integration-walkthrough-POAP)
+[Integrations - Cyberconnect Video Walkthorugh](https://bit.ly/Cyberconnect-Demo-Cyber-Graph-Integration-walkthrough-POAP) <br>
+[Integrations - Rainbow Me   Video Walkthorugh](https://bit.ly/Rainbow-me-Integration-walkthrough-POAP)
 
 ## Writing Samples
 [Raw-text recap of the 21st Community Call](https://bit.ly/recap-of-poap-community-call-21) <br>
