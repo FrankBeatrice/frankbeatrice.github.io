@@ -28,7 +28,8 @@
 [OFACE Notice Email Template](https://bit.ly/OFAC-template)
 
 ## Additional links:
-[Frankie's Discourse Platform Stats](https://bit.ly/statsdiscoursepoapxyzstats)  <br>
+[Frankie's Discourse Platform Stats](https://bit.ly/frankie-discourse-stats)  <br>
 [Frankie's profile & interview, company wide feature](https://bit.ly/profile-and-interview-poap-company-feature)
+[Yalie.eth]https://bit.ly/yalie-eth-rainbow
 
 [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
