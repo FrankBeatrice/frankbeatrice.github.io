@@ -30,6 +30,6 @@
 ## Additional links:
 [Frankie's Discourse Platform Stats](https://bit.ly/frankie-discourse-stats)  <br>
 [Frankie's profile & interview, company wide feature](https://bit.ly/profile-and-interview-poap-company-feature) <br>
-[ENS | yalie.eth | footprint](https://bit.ly/yalie-eth-rainbow)
+[ENS | yalie.eth | Footprint](https://bit.ly/yalie-eth-rainbow)
 
 [MIT license](https://github.com/sblisesivdin/biscuit/blob/gh-pages/LICENSE).
