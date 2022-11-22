@@ -20,7 +20,7 @@
 
 ### Public Response Templates:
 [Mail-merge Instructional Template](https://bit.ly/mail-merge-template) <br>
-[OFACE Notice Email Template](https://bit.ly/OFAC-template)
+[OFAC Notice Email Template](https://bit.ly/OFAC-template)
 
 ## Additional links:
 [Frankie's Resume](https://standardresume.co/r/0DDY3aWGjOP-oBKqI6638) <br>
