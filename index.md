@@ -4,7 +4,7 @@
 ## Presentations
 [Vayner NFT CryptoStrategist Deck](https://bit.ly/vayner-nft_CryptoStrategist_frankbeatriceIII) <br>
 [Facebook Early Learners Initiative: Freehold Highschool District Program Deck](https://bit.ly/facebook-early-learners-initiative ) <br>
-[Med-hacks Deck](https://bit.ly/med-hacks-mlh)
+[Medhacks Deck](https://bit.ly/med-hacks-mlh)
  
 ## Community-Calls
 [POAP Community Call #35 Video](https://bit.ly/poap-community-call-35-video) <br>
