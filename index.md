@@ -24,7 +24,7 @@
 
 ## Additional links:
 [Frankie's Resume](https://standardresume.co/r/0DDY3aWGjOP-oBKqI6638) <br>
-[Frankie's Discourse Platform Stats](https://bit.ly/frankie-discourse-stats)  <br>
+[Frankie's Discourse Platform Stats](https://www.dropbox.com/s/yq41m28dermi345/discourse_stats_083022_n2.png?dl=0)  <br>
 [Frankie's profile & interview - company wide feature](https://bit.ly/profile-and-interview-poap-company-feature) <br>
 [ENS | yalie.eth | Footprint](https://bit.ly/yalie-eth-rainbow)
 
