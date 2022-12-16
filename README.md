@@ -1,4 +1,4 @@
-# Frankie's Uniswap Portfolio
+# Frankie's Portfolio
 
 This potfolio was built on top of Biscuit.
 [Biscuit](http://sblisesivdin.github.io/biscuit) is a single-page responsive Jekyll theme. This is the most simple and still-good-looking Jekyll theme that you can find.
