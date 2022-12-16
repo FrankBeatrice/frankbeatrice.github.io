@@ -19,7 +19,7 @@
 [Raw-text recap of the 21st Community Call](https://bit.ly/recap-of-poap-community-call-21) <br>
 
 ### Public Response Templates:
-[Mail-merge Instructional Template](https://bit.ly/mail-merge-template) <br>
+[Mail-Merge Instructional Template](https://bit.ly/mail-merge-template) <br>
 [OFAC Notice Email Template](https://bit.ly/OFAC-template)
 
 ## Additional links:
