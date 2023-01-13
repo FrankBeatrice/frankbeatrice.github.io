@@ -17,7 +17,7 @@
 
 ## Writing Samples
 [Raw-text: Recap of POAP's 21st Community Call](https://bit.ly/recap-of-poap-community-call-21) <br>
-[Generated: Twitter Threads] (https://www.notion.so/Twitter-Threads-7ca4bb7894b640448e17beb69f4248c3)
+[Generated: Twitter Threads](https://www.notion.so/Twitter-Threads-7ca4bb7894b640448e17beb69f4248c3)
 
 ### Public Response Templates:
 [Mail-Merge Instructional Template](https://bit.ly/mail-merge-template) <br>
