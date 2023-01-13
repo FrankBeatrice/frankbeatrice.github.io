@@ -16,7 +16,7 @@
 [Integrations - Rainbow Me   Video Walkthorugh](https://bit.ly/Rainbow-me-Integration-walkthrough-POAP)
 
 ## Writing Samples
-[Raw-text recap of the 21st Community Call](https://bit.ly/recap-of-poap-community-call-21) <br>
+[Raw-text: Recap of POAP's 21st Community Call](https://bit.ly/recap-of-poap-community-call-21) <br>
 
 ### Public Response Templates:
 [Mail-Merge Instructional Template](https://bit.ly/mail-merge-template) <br>
